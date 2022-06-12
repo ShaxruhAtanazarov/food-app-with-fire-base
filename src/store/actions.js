@@ -1,0 +1,6 @@
+export const action_type = {
+  SET_USER: "SET_USER",
+  SET_FOOD_LIST: "SET_FOOD_LIST",
+  SET_IS_CART_OPEN: "SET_IS_CART_OPEN",
+  SET_CART_ITEMS: "SET_CART_ITEMS",
+};
